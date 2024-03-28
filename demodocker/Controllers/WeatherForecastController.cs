@@ -20,6 +20,7 @@ namespace demodocker.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            //some changes
             _logger = logger;
         }
 
