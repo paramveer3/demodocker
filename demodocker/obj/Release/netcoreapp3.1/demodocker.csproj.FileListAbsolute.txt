@@ -13,9 +13,12 @@ C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodock
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.csproj.CoreCompileInputs.cache
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\demodocker.StaticWebAssets.Manifest.cache
-C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\demodocker.StaticWebAssets.xml
-C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\scopedcss\bundle\demodocker.styles.css
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.RazorTargetAssemblyInfo.cache
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.dll
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.pdb
 C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\demodocker.genruntimeconfig.cache
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\demodocker.StaticWebAssets.Pack.cache
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.demodocker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.demodocker.props
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.demodocker.props
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.demodocker.props
